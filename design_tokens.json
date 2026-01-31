@@ -1,0 +1,36 @@
+{
+  "source": {
+    "figma_file_key": "RfBUMqK1JxR4dESXlENKbm",
+    "page": "🦆  Signup / Login flow"
+  },
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter"
+  },
+  "colors": {
+    "bg": "#FFFFFF",
+    "ink": "#000000",
+    "muted": "rgba(0,0,0,0.70)",
+    "border": "#D8DADC",
+    "panel": "#F4F5F6",
+    "danger": "#FF3B30"
+  },
+  "radii": {
+    "sm": 10,
+    "md": 15,
+    "lg": 20,
+    "xl": 32
+  },
+  "sizes": {
+    "mobile_width": 393,
+    "mobile_height": 852,
+    "control_height": 56,
+    "icon": 20
+  },
+  "spacing": {
+    "page_x": 20,
+    "section_gap": 24,
+    "control_gap": 14
+  }
+}
+

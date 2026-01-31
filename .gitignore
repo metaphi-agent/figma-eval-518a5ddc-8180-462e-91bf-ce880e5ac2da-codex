@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+.codex/
+
+# Large evaluation artifacts (kept locally)
+ground_truth/
+figma_overview/
+transcript.jsonl
